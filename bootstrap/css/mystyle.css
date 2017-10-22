@@ -1,6 +1,6 @@
 
 body {
-   background-image: image(images\gadgets.jpeg);
+   background-image: url(images\hollow.jpeg);
 
      }
 .position-left{
@@ -14,12 +14,28 @@ body {
   outline-width:thick;
   padding: 3px;
 }
-/
+/*
 div.footer {
   position:fixed;
   left: 0;
   width:100%;
   background-color:inherit;
   text-align: justify;
+*/
+.navbar-brand{
+  float: left;
+}
+footer.site-footer{
+  background-color: black;
+   height: inherit;
+}
 
+  h2 {
+  font-size:30px;
+  font-family:monospace;
+  font-weight:bold;
+  text-decoration: underline;
+}
+ #about{
+  text-align: center;
 }

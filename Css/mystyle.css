@@ -1,27 +1,12 @@
 
-.large{
-  background-image: url("https://static.pexels.com/photos/297814/pexels-photo-297814.jpeg")
-}
-.jumbotron {
-  background-image: url("https://static.pexels.com/photos/620530/pexels-photo-620530.jpeg")
-}
-.intro {
-  background-color : url("https://static.pexels.com/photos/620530/pexels-photo-620530.jpeg")
-}
+body {
+   background-image: url(Portfolio/images/hollow.jpeg);
+
+     }
 .position-left{
    align-content: left
 }
-img.small {
-  border-radius: 10px;
-  border-width: 10px;
-}
-.heavy  {
-  font-family: monospace;
 
-}
-#cover{
-  background-image: url("https://static.pexels.com/photos/373076/pexels-photo-373076.jpeg");
-}
 #request {
   border-style: inset;
   border-spacing: 3px;
@@ -55,6 +40,6 @@ footer.site-footer{
   text-align: center;
 }
 p.large {
-  font-size: 25px;
+  font-size: 20px;
   background-color:grey;
 }
